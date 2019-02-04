@@ -10,6 +10,8 @@ public class first {
         JButton button = new JButton("Press");
         frame.getContentPane().add(button); 
         frame.setVisible(true);
+        System.out.println("hiiiiii");
+   
      }
  
 	}
