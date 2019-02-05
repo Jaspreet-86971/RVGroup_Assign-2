@@ -11,6 +11,7 @@ public class first {
         frame.getContentPane().add(button); 
         frame.setVisible(true);
         System.out.println("hiiiiii");
+        System.out.println("hiiiiii   guri");
    
      }
  
